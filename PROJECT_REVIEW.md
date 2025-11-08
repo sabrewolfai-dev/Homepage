@@ -233,3 +233,4 @@ This is a Next.js 15 landing page template with authentication UI pages but **no
 
 **Main Gap**: This is currently a **template/UI shell** that needs backend functionality to become a working application.
 
+
